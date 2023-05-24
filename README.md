@@ -5,4 +5,4 @@ Collection of responsive email templates
 
 # Objectives
 
-##  Promotional, Transactional, Newsletter
+##  Promotional Email , Transactional Email , Newsletter Email
